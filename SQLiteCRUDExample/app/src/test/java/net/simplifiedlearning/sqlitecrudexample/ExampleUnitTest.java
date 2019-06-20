@@ -1,4 +1,4 @@
-package com.login.mobi.loginapp;
+package net.simplifiedlearning.sqlitecrudexample;
 
 import org.junit.Test;
 
